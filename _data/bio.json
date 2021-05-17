@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Thato Menu",
+    "label": "Student/Sale associate",
+    "picture": "https://Codemenu92.github.io/images/",
+    "email": "menuthato92@gmail.com",
+    "phone": "0814004543",
+    "website": "https://Codemenu92.github.io",
+    "summary": "I am Sale associate at adidas ,start last years Novermber 2020 . Currently i am learning how to become a Sotfware developr at Linkdin,so that i can able to build my own sotfware,websites and application.
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "345 Galition",
+      "postalCode": "0008",
+      "city": "Pretoria",
+      "countryCode": "SA",
+      "region": "Gauteng"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Codemenu92",
+        "url": "http://github.com/Codemenu92.github.io"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "url": "http://linkedin.com/in/thatomenu"
       },
       {
         "network": "twitter",
@@ -32,26 +32,25 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "m.e.u.n__",
+        "url": "http://instagram.com/m.e.u.n__"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Sotfware developr",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "web design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "data analyst",
       "keywords": [
       ]
     }
