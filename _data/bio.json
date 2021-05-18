@@ -88,9 +88,8 @@
       "gpa": "",
       "courses": [
       ]
-    }
-  ],
-  {
+    },
+   {
       "institution": "linkedin",
       "area": "Software developer",
       "startDate": "2020-08-01",
@@ -109,7 +108,7 @@
       "endDate": "Present",
       "summary": "last sizes shoes Department",
       "highlights": [
-        "Maintain, update, and oversee  pricing of shoes,sizes location of shoes".
+        "Maintain, update, and oversee  pricing of shoes,sizes location of shoes",
         "Two most important is making sales and looking after stock"
       ] 
     },
